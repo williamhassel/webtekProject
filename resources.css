@@ -1,9 +1,9 @@
-html, body {
+#resHtml, #resBody {
     margin: 0;
 }
-body {
+#resBody {
     background-color: rgb(135, 222, 154);
 }
-h1 {
+#resH1 {
     background-color: rgb(233, 122, 122);
 }
